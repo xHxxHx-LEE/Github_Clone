@@ -1,6 +1,16 @@
-## CSS 작명 규칙
+# Github 클론 코딩
 
-------
-- -: 일반적인 작명
-- __: ~의 일부분
-- --: ~의 상태
+> 기간 : 2022.12.23
+> 스택 : HTML, CSS, Vanilla JS, Responsive Web app
+> 툴 : Visual Studio Code
+> API : Google Map API
+> 목적 : 이론으로 배웠던 것들을 Github 클론 코딩으로 사용
+
+---
+
+1025px~ 화면
+(이미지)
+769px ~ 1024px 화면
+(이미지)
+~768px 화면
+(이미지)
