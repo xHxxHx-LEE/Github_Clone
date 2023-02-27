@@ -8,9 +8,9 @@
 
 ---
 
-- 1025px~ 화면
-![1025px~](https://user-images.githubusercontent.com/57612261/221512911-792b4fac-1ba8-4989-a518-4d2822ae604d.png)
-- 769px~1024px 화면
-![769px~1024px](https://user-images.githubusercontent.com/57612261/221513106-b2f38d1d-66f1-434d-951c-aa73191f9925.png)
-- ~768px 화면
+- 1025px~ 화면  
+![1025px~](https://user-images.githubusercontent.com/57612261/221512911-792b4fac-1ba8-4989-a518-4d2822ae604d.png)  
+- 769px~1024px 화면  
+![769px~1024px](https://user-images.githubusercontent.com/57612261/221513106-b2f38d1d-66f1-434d-951c-aa73191f9925.png)  
+- ~768px 화면  
 ![~768px](https://user-images.githubusercontent.com/57612261/221513159-d7a4ddf8-eccc-4297-bd64-0b2185cc328c.png)
